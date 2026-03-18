@@ -1,6 +1,6 @@
 # 🧮 Calculadora - Rafael Rocha
 
-Uma calculadora moderna, responsiva e funcional desenvolvida com foco em design limpo e experiência do usuário.
+Minha primeira calculadora é uma aplicação moderna, responsiva e funcional, desenvolvida com foco em design limpo e boa experiência do usuário. Possui modo escuro/claro, histórico de cálculos, suporte ao teclado e processamento seguro das operações. Foi construída com HTML5, CSS3 (Grid, Flexbox e variáveis) e JavaScript, aplicando na prática conceitos essenciais de front-end.
 
 ## ✨ Funcionalidades
 - **Modo Escuro/Claro:** Alternância de tema com persistência.
